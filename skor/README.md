@@ -20,8 +20,3 @@ Validasyonlar tam anlamıyla uygulanmadı, ama görülmesi için bir validasyon 
 end-pointidir.
 
 ##### Thanks
-Mülakat aşamanız için uyguladığınız interview project modelini çok beğendiğimi söylemek isterim.
-Şimdiye kadar en beğendiğim diyebilirim.Bu projeyi interview project olarak tasarlayan Lead yada herhangi bir 
-pozisyon da çalışan herkimse onun altında ya da onunla birlikte bir ekipte yer almak isterim. Teşekkürler :)
- 
-
